@@ -4,7 +4,7 @@ A fuzzer coded in python by entroboy(alaa k.elbehery) that helps penetration tes
 # Installation:
 1- Download N.PuZZ.rar.
 
-2- Extract N.PuZZ.rar.
+2- Extract wordlists.rar
 
 3- Simply run N.PuZZ.
 
